@@ -1,0 +1,6 @@
+.Quizzes{
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 25px;
+}

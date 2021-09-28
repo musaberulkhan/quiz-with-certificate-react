@@ -1,0 +1,12 @@
+.Quiz{
+    color: black;    
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+h3{
+    color: black;  
+    margin-bottom: 0;
+}

@@ -1,0 +1,88 @@
+{
+    "quizzes":
+    [
+        {
+            "quiz":"javascript",
+            "title":"JavaScript",
+            "background": "#E6E673",
+            "questions":
+            [
+                {
+                    "no":1,
+                    "question":"Which of the following is a disadvantage of using JavaScript?",
+                    "options":[
+                        "Client-side JavaScript does not allow the reading or writing of files.",
+                        "JavaScript can not be used for Networking applications because there is no such support available.",
+                        "JavaScript doesn't have any multithreading or multiprocess capabilities.",
+                        "All of the above."
+                    ],
+                    "answer":"All of the above."
+                },
+                {
+                    "no":2,
+                    "question":"Which of the following type of variable is visible everywhere in your JavaScript code?",
+                    "options":[
+                        "global variable",
+                        "local variable",
+                        "Both of the above.",
+                        "None of the above."
+                    ],
+                    "answer":"global variable"
+                },
+                {
+                    "no":3,
+                    "question":"Which built-in method returns the length of the string?",
+                    "options":[
+                        "length()",
+                        "size()",
+                        "index()",
+                        "None of the above"
+                    ],
+                    "answer":"length()"
+                }
+            ]
+        },
+        {
+            "quiz":"php",
+            "title":"PHP",
+            "background": "#B3B7E6",
+            "questions":
+            [
+                {
+                    "no":1,
+                    "question":"Which of the following is a disadvantage of using JavaScript?",
+                    "options":[
+                        "Client-side JavaScript does not allow the reading or writing of files.",
+                        "JavaScript can not be used for Networking applications because there is no such support available.",
+                        "JavaScript doesn't have any multithreading or multiprocess capabilities.",
+                        "All of the above."
+                    ],
+                    "answer":"All of the above."
+                },
+                {
+                    "no":2,
+                    "question":"Which of the following type of variable is visible everywhere in your JavaScript code?",
+                    "options":[
+                        "global variable",
+                        "local variable",
+                        "Both of the above.",
+                        "None of the above."
+                    ],
+                    "answer":"global variable"
+                },
+                {
+                    "no":3,
+                    "question":"Which built-in method returns the length of the string?",
+                    "options":[
+                        "length()",
+                        "size()",
+                        "index()",
+                        "None of the above"
+                    ],
+                    "answer":"length()"
+                }
+            ]
+        }
+        
+    ]
+}
